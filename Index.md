@@ -81,3 +81,7 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
 `<img class="scale-100 ...">`
 `<img class="scale-125 ...">`
 `<img class="-scale-50">`
+
+## CSS Podcast Reflection Pt2
+
+It would seem to me that ant of the classes that have to do with formatting *(Like flex ect)* where the properties of the element you put in the size, in our case we used px for our HTML/CSS assighnment. In theory depending on how developed your site might be you could even find some benefits from the ems and rems advice they gave.
