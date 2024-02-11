@@ -23,6 +23,8 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
         <div class="rounded-lg ..."></div>
         <div class="rounded-full ..."></div>`
 
+**Understandable:**  Yes i understand this, its pretty easy concept and that along with using Adobe animate i can see how you would make differnt size buttons ect using this feature, or even making pictures look unique!
+
 ### Block and Inline
 
 **Definition:** *Use inline, inline-block, and block to control the flow of text and elements.*
@@ -38,6 +40,8 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
   Lastly, using the property `<span class="block">display: block</span>`
   will put the element on its own line and fill its parent.
 
+  **Understandable:**  Yes this is easily understandable as it it taking html code that i already know
+
 ### Grid Auto Flow
 
 **Definition:** Use the grid-flow-{keyword} utilities to control how the auto-placement algorithm works for a grid layout.
@@ -50,6 +54,8 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
   `<div>05</div>`
 `</div>`
 
+  **Understandable:**  This whole grid column thing is where you start to lose me, i tried the games that were listed in the assignment and the instructions i didnt find clear? i will have to look deeper into this and watch some other videos ect to get a better understanding of the positioning of columns on the page ect.
+
 ### Gap
 
 **Definition:** Use gap-{size} to change the gap between both rows and columns in grid and flexbox layouts.
@@ -59,8 +65,10 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
   `<div>02</div>`
  `<div>03</div>`
  `<div>04</div>`
-</div>
-**Use gap-x-{size} and gap-y-{size} to change the gap between columns and rows independently**
+`</div>`
+*Use gap-x-{size} and gap-y-{size} to change the gap between columns and rows independently*
+
+ **Understandable:** This follows the same kinda thing as the grid it is related, i understand the gap and what it means and how it affects the columnms and rows, just don't understand the columns and rows bit :p.
 
 ### Greyscale
 
@@ -73,6 +81,8 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
   <!-- ... -->
 `</div>`
 
+ **Understandable:** Yes i understand, it makes it grey., well i guess not grey but greyscaled
+
 ### Scale
 
 **Definition:** Use the scale-{percentage}, scale-x-{percentage}, and scale-y-{percentage} utilities to scale an element.
@@ -82,6 +92,8 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
 `<img class="scale-125 ...">`
 `<img class="-scale-50">`
 
+**Understandable:** Yes ii like percentages as a math person, i understand where the people iun the podcast are coming from!
+
 ## CSS Podcast Reflection Pt2
 
-It would seem to me that ant of the classes that have to do with formatting *(Like flex ect)* where the properties of the element you put in the size, in our case we used px for our HTML/CSS assighnment. In theory depending on how developed your site might be you could even find some benefits from the ems and rems advice they gave.
+It would seem to me that ant of the classes that have to do with formatting *(Like flex ect)* where the properties of the element you put in the size, in our case we used px for our HTML/CSS assignment. In theory depending on how developed your site might be you could even find some benefits from the ems and rems advice they gave.
