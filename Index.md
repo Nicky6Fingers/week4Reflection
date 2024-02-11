@@ -3,6 +3,7 @@
 ## CSS Units Podcast Reflection
 
 Let me start off by saying that at first glance HTML/CSs seems "simple". You can easily get a simple static website going with the more simple HTML tags, and in theory little to no CSS. But depending on how deep you dig, the functionality of the things you can do grows greatly. and the power of the tools for instance in the podcast it mentioned formatting **ill get into this more later** using rems and ems you are able to scale your website much easier *IF* the website was made with this initially in mind. And that is kind of the point i want to make, depending on your knowledge of certain things and if you created the website with these functions properly in the first place it makes things much easier to format and change. Without having to do it all again.
+***
 
 ## Tailwind CSS
 
@@ -93,7 +94,9 @@ Let me start off by saying that at first glance HTML/CSs seems "simple". You can
 `<img class="-scale-50">`
 
 **Understandable:** Yes ii like percentages as a math person, i understand where the people iun the podcast are coming from!
+***
 
 ## CSS Podcast Reflection Pt2
 
 It would seem to me that ant of the classes that have to do with formatting *(Like flex ect)* where the properties of the element you put in the size, in our case we used px for our HTML/CSS assignment. In theory depending on how developed your site might be you could even find some benefits from the ems and rems advice they gave.
+***
